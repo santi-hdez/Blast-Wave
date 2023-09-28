@@ -23,3 +23,5 @@ This procedure simulates the Taylor-von Neumann-Sedov Blast Wave model. This mod
  Here, the Euler equations are solved by means of a 2D classic numerical hydrodynamics solver. The imposed initial
  conditions are rho = 1, ux = 0, uy = 0 and e = 1e-06. Additionally, in the 36 central cells (6x6 central square of the
  grid) an additional initial energy density is added.
+
+ More information about the execution of this procedure can be found in the documentation of the code.
